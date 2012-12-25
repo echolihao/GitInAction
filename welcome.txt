@@ -1,1 +1,3 @@
 fixed the broken email address.
+added a new footer.
+finished the new footer.
